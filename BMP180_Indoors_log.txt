@@ -1,0 +1,5 @@
+Temp = 24.40 *C
+Pressure = 101647 Pa
+Altitude = -26.28 m
+Sealevel Pressure = 101644 Pa
+

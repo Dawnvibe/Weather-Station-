@@ -1,0 +1,4 @@
+clear sky
+Temperature in Larisa City...12.0°C
+The WindSpeed is...3.49Km/h
+The Humidity is...81%
